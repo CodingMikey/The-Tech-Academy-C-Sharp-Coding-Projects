@@ -1,0 +1,7 @@
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\bin\Debug\BooleanLogicExercise.exe.config
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\bin\Debug\BooleanLogicExercise.exe
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\bin\Debug\BooleanLogicExercise.pdb
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\obj\Debug\BooleanLogicExercise.csprojAssemblyReference.cache
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\obj\Debug\BooleanLogicExercise.csproj.CoreCompileInputs.cache
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\obj\Debug\BooleanLogicExercise.exe
+c:\users\tee pc\source\repos\BooleanLogicExercise\BooleanLogicExercise\obj\Debug\BooleanLogicExercise.pdb
