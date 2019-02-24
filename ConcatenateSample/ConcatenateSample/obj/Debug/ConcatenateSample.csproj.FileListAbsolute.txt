@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\bin\Debug\ConcatenateSample.exe.config
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\bin\Debug\ConcatenateSample.exe
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\bin\Debug\ConcatenateSample.pdb
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\obj\Debug\ConcatenateSample.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\obj\Debug\ConcatenateSample.exe
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\obj\Debug\ConcatenateSample.pdb
+C:\Users\MeMe\source\repos\ConcatenateSample\ConcatenateSample\obj\Debug\ConcatenateSample.csprojAssemblyReference.cache
