@@ -35,7 +35,7 @@ namespace ArraysListsApplication
             }
             else
             {
-                Console.WriteLine("his index does not exsist.");
+                Console.WriteLine("This index does not exsist.");
                 Console.ReadLine();
             }
             //int[] ageArray = { 19, 25, 98 };
