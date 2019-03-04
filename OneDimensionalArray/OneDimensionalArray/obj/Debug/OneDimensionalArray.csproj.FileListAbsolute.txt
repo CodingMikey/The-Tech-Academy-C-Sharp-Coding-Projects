@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\bin\Debug\OneDimensionalArray.exe.config
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\bin\Debug\OneDimensionalArray.exe
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\bin\Debug\OneDimensionalArray.pdb
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\obj\Debug\OneDimensionalArray.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\obj\Debug\OneDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\obj\Debug\OneDimensionalArray.exe
+C:\Users\MeMe\source\repos\OneDimensionalArray\OneDimensionalArray\obj\Debug\OneDimensionalArray.pdb
