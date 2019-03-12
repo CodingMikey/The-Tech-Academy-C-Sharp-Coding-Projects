@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\bin\Debug\ClassesSample.exe.config
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\bin\Debug\ClassesSample.exe
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\bin\Debug\ClassesSample.pdb
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\obj\Debug\ClassesSample.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\obj\Debug\ClassesSample.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\obj\Debug\ClassesSample.exe
+C:\Users\MeMe\source\repos\ClassesSample\ClassesSample\obj\Debug\ClassesSample.pdb
