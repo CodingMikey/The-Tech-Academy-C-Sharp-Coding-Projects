@@ -10,6 +10,16 @@ namespace VoidMethod
     {
         static void Main(string[] args)
         {
+            int num1 = 5;
+            int num2 = 25;
+            
+            Numbers numbers = new Numbers();
+
+            numbers.numbers(num1, num2);
+            Console.ReadLine();
         }
+
+        
     }
+   
 }

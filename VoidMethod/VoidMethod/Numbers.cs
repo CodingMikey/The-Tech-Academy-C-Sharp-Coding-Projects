@@ -10,8 +10,8 @@ namespace VoidMethod
     {
         public void numbers(int num1, int num2)
         {
-            num1 = +10;
-            num2 = 25;
+            num1 = num1 + 4;
+            Console.WriteLine(num2);
         }
     }
 }
