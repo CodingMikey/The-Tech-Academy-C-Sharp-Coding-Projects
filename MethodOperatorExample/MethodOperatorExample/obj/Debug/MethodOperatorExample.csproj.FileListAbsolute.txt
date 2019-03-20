@@ -1,0 +1,7 @@
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\bin\Debug\MethodOperatorExample.exe.config
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\bin\Debug\MethodOperatorExample.exe
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\bin\Debug\MethodOperatorExample.pdb
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\obj\Debug\MethodOperatorExample.csprojAssemblyReference.cache
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\obj\Debug\MethodOperatorExample.csproj.CoreCompileInputs.cache
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\obj\Debug\MethodOperatorExample.exe
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\MethodOperatorExample\MethodOperatorExample\obj\Debug\MethodOperatorExample.pdb
