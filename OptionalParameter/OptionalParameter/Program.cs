@@ -18,10 +18,10 @@ namespace OptionalParameter
             Console.WriteLine("Enter second number or enter zero");
             int usersInputTwo = Convert.ToInt32(Console.ReadLine());
 
-            int oneNumber = numbers.numbersClass(usersInput, usersInputTwo);
+            int oneNumber = numbers.numbersClass(usersInput);
             int twoNumbers = numbers.numbersClass(usersInput, usersInputTwo);
 
-             if (usersInputTwo == 0)
+            if (usersInputTwo == 0)
             {
                 Console.WriteLine(oneNumber);
                 Console.ReadLine();

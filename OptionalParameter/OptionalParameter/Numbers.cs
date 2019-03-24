@@ -14,6 +14,5 @@ namespace OptionalParameter
 
             return results;
         }
-
     }
 }
