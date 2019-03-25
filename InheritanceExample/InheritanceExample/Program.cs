@@ -10,12 +10,12 @@ namespace InheritanceExample
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+            Employee employee = new Employee();
 
-            person.FirstName = "Sample";
-            person.LastName = "Student";
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
 
-            person.SayName();
+            employee.SayName();
             Console.ReadLine();
         }
     }
