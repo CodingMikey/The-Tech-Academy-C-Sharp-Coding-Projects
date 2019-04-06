@@ -10,6 +10,10 @@ namespace ExerciseAbstractClass
     {
         static void Main(string[] args)
         {
+            IQuittable quittable = new Employee();
+
+            quittable.Quit();
+
             Employee person = new Employee();
             person.firstName = "Sample ";
             person.lastName = "Student ";
