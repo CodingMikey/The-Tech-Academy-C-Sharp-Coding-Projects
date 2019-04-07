@@ -6,16 +6,26 @@ using System.Threading.Tasks;
 
 namespace ExerciseAbstractClass
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> /*: Person IQuittable*/
     {
-        public override void SayName()
+        public List<T> Things { get; set; }
+
+        public void sayThings()
         {
-            base.SayName();
+            foreach (T i in Things)
+            {
+                Console.WriteLine(i);
+            }
         }
-        public void Quit()
-        {
-            Console.WriteLine(firstName + lastName + "Employee below is to be fired:");
-        }
-        
+
+        //public override void SayName()
+        //{
+        //    base.SayName();
+        //}
+        //public void Quit()
+        //{
+        //    Console.WriteLine(firstName + lastName + "Employee below is to be fired:");
+        //}
+
     }
 }
