@@ -15,9 +15,22 @@ namespace ExerciseAbstractClass
         {
             Console.WriteLine(firstName + lastName);
         }
-        
-        
-        
-        
+        public static bool operator == (Person firstName, Person lastName)
+        {
+            if (firstName == lastName)
+            {
+                return true;
+            }
+            else return false;
+        }
+        public static bool operator !=(Person firstName, Person lastName)
+        {
+            if (firstName != lastName)
+            {
+                return false;
+            }
+            else return true;
+                
+        }
     }
 }

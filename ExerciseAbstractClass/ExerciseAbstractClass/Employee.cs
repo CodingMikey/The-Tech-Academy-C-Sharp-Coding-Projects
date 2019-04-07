@@ -16,5 +16,6 @@ namespace ExerciseAbstractClass
         {
             Console.WriteLine(firstName + lastName + "Employee below is to be fired:");
         }
+        
     }
 }

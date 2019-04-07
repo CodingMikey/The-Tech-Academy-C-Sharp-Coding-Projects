@@ -15,8 +15,9 @@ namespace ExerciseAbstractClass
             quittable.Quit();
 
             Employee person = new Employee();
-            person.firstName = "Sample ";
-            person.lastName = "Student ";
+            person.firstName = "Sample";
+            person.lastName = "Sample ";
+            
 
             person.SayName();
         
