@@ -1,0 +1,7 @@
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\bin\Debug\ExerciseStruct.exe.config
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\bin\Debug\ExerciseStruct.exe
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\bin\Debug\ExerciseStruct.pdb
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\obj\Debug\ExerciseStruct.csprojAssemblyReference.cache
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\obj\Debug\ExerciseStruct.csproj.CoreCompileInputs.cache
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\obj\Debug\ExerciseStruct.exe
+C:\Users\Vic\source\repos\ExerciseStruct\ExerciseStruct\obj\Debug\ExerciseStruct.pdb
