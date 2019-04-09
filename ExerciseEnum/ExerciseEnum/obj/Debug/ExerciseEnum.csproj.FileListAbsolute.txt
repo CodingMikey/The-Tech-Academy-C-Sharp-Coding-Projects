@@ -1,0 +1,7 @@
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\bin\Debug\ExerciseEnum.exe.config
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\bin\Debug\ExerciseEnum.exe
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\bin\Debug\ExerciseEnum.pdb
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\obj\Debug\ExerciseEnum.csprojAssemblyReference.cache
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\obj\Debug\ExerciseEnum.csproj.CoreCompileInputs.cache
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\obj\Debug\ExerciseEnum.exe
+C:\Users\Vic\source\repos\ExerciseEnum\ExerciseEnum\obj\Debug\ExerciseEnum.pdb
