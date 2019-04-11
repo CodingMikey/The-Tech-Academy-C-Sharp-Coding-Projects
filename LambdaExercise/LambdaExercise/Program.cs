@@ -11,10 +11,12 @@ namespace LambdaExercise
         static void Main(string[] args)
         {
 
+            //Instantiated from class Employee to create employee list
+
             List<Employee> empList = new List<Employee>();
 
 
-            
+            //List of 10 employees. First name, last name, ID #
 
             empList.Add(new Employee()
             {
@@ -77,14 +79,17 @@ namespace LambdaExercise
                 LastName = "Helm"
             });
 
-            
+            //Foreach loop to print out all employees with first name Joe.
 
             foreach (var data in empList)
             {
-                Console.WriteLine("My Id is {0} and my full name is {1} {2}", data.Id, data.FirstName, data.LastName);
+                if (data.FirstName == "Joe")
+                {
+                    Console.WriteLine("{0}, {1}, {2}", data.FirstName, data.LastName, data.Id);
+                   
+                }
+                Console.ReadLine();
             }
-            Console.ReadLine();
-
         }
         
     }
