@@ -79,17 +79,38 @@ namespace LambdaExercise
                 LastName = "Helm"
             });
 
+            //Lambda Expression to print all employees with ID # 5 or greater
+
+
+            Console.WriteLine("\nPrinting all employees with ID # above 5...");
+            foreach (Employee pers in empList.SkipWhile(e => e.Id < 5))
+            {
+                Console.WriteLine("Name : " + pers.FirstName + " \t\tEmployees ID: " + pers.Id);
+            }
+            Console.ReadLine();
+
+
+            // Lambda Exression to print all employees with the first name Joe
+
+            //Console.WriteLine("\nPrinting all employees with the first name of Joe...");
+            //foreach (Employee per in empList.TakeWhile(e => e.FirstName.StartsWith("J")))
+            //{
+            //    Console.WriteLine("First name : " + per.FirstName + "\t\tLast name: " + per.LastName);
+            //}
+            //Console.ReadLine();
+
+
             //Foreach loop to print out all employees with first name Joe.
 
-            foreach (var data in empList)
-            {
-                if (data.FirstName == "Joe")
-                {
-                    Console.WriteLine("{0}, {1}, {2}", data.FirstName, data.LastName, data.Id);
-                   
-                }
-                Console.ReadLine();
-            }
+            //foreach (var data in empList)
+            //{
+            //    if (data.FirstName == "Joe")
+            //    {
+            //        Console.WriteLine("{0}, {1}, {2}", data.FirstName, data.LastName, data.Id);
+
+            //    }
+            //    Console.ReadLine();
+            //}
         }
         
     }
