@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\obj\Debug\ChainConstructorExample.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\obj\Debug\ChainConstructorExample.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\bin\Debug\ChainConstructorExample.exe.config
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\bin\Debug\ChainConstructorExample.exe
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\bin\Debug\ChainConstructorExample.pdb
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\obj\Debug\ChainConstructorExample.exe
+C:\Users\MeMe\source\repos\ChainConstructorExample\ChainConstructorExample\obj\Debug\ChainConstructorExample.pdb
