@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\bin\Debug\IOExercise.exe.config
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\bin\Debug\IOExercise.exe
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\bin\Debug\IOExercise.pdb
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\obj\Debug\IOExercise.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\obj\Debug\IOExercise.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\obj\Debug\IOExercise.exe
+C:\Users\MeMe\source\repos\IOExercise\IOExercise\obj\Debug\IOExercise.pdb
