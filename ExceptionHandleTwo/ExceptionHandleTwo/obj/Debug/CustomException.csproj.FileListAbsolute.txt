@@ -1,0 +1,6 @@
+C:\Users\MeMe\source\repos\ExceptionHandleTwo\ExceptionHandleTwo\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\ExceptionHandleTwo\ExceptionHandleTwo\obj\Debug\ExceptionHandleTwo.exe
+C:\Users\MeMe\source\repos\ExceptionHandleTwo\ExceptionHandleTwo\obj\Debug\ExceptionHandleTwo.pdb
+C:\Users\MeMe\source\repos\ExceptionHandleTwo\ExceptionHandleTwo\bin\Debug\ExceptionHandleTwo.exe.config
+C:\Users\MeMe\source\repos\ExceptionHandleTwo\ExceptionHandleTwo\bin\Debug\ExceptionHandleTwo.exe
+C:\Users\MeMe\source\repos\ExceptionHandleTwo\ExceptionHandleTwo\bin\Debug\ExceptionHandleTwo.pdb

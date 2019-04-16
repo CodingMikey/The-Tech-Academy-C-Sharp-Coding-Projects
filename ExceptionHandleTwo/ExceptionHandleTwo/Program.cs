@@ -18,24 +18,33 @@ namespace ExceptionHandleTwo
 
 
                 DateTime aTime = DateTime.Now;
+                InputException inputException = new InputException();
+                inputException.ShowAge(age);
+
 
 
                 Console.WriteLine("You were born in the year: {0} ", aTime.Year - age);
                 Console.ReadLine();
             }
-            catch (Exception e)
+            catch (InputException e)
             {
-                
-                Console.WriteLine("Please type a positive.");
+
+                Console.WriteLine("Error: {0}", e.Message);
+                return;
+
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("An error occurred. Please contact your System Administrator.");
                 
                 return;
 
             }
-            
             finally
             {
                 Console.ReadLine();
             }
+
         }
     }
 }
