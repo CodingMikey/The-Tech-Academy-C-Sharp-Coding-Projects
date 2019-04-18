@@ -1,0 +1,7 @@
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\bin\Debug\EarningsExcercise.exe.config
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\bin\Debug\EarningsExcercise.exe
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\bin\Debug\EarningsExcercise.pdb
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\obj\Debug\EarningsExcercise.csprojAssemblyReference.cache
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\obj\Debug\EarningsExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\obj\Debug\EarningsExcercise.exe
+C:\Users\Victor.DESKTOP-N301FS6\source\repos\EarningsExcercise\EarningsExcercise\obj\Debug\EarningsExcercise.pdb
